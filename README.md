@@ -26,7 +26,7 @@ Dalam era digital ini, metode pembelajaran dan evaluasi semakin beragam dengan a
 2. **Clone Repositori**
    - Clone repositori yang telah di-fork ke perangkat lokal Anda.
 ```bash
-     git clone https://github.com/username/pomo-timer.git
+     https://github.com/KyoukaWhite/Quiz-Project.git
 ```
 
    - Ganti `username` dengan nama pengguna GitHub Anda.
