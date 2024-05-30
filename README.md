@@ -1,6 +1,6 @@
 Quiz Project
 ## Pengantar :
-Kami, Muhammad Fauzi Rahman Anshari dan Muhammad Haikal Abdi, telah berhasil menyelesaikan proyek aplikasi kuis ini. Proyek ini merupakan hasil kerja keras dan kolaborasi kami dalam rangka memenuhi tugas akhir mata kuliah
+Kami, Muhammad Fauzi Rahman Anshari dan Muhammad Haikal Abdi, telah berhasil menyelesaikan proyek aplikasi kuis ini. Proyek ini merupakan hasil kerja keras dan kolaborasi kami dalam rangka memenuhi tugas akhir eskul IT.
 
 Features
 User Authentication: Sign up and login to save your progress.
