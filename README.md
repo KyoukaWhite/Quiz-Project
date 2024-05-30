@@ -58,3 +58,36 @@ Dalam era digital ini, metode pembelajaran dan evaluasi semakin beragam dengan a
    - Berikan deskripsi yang jelas tentang perubahan yang Anda buat.
 
 ##  Kebutuhan sistem
+
+Untuk menjalankan "Kuis" dengan lancar, pastikan sistem Anda memenuhi persyaratan berikut:
+
+1. Browser Web Modern
+
+"Quiz Project" dirancang untuk bekerja dengan browser web yang mendukung HTML5. Pastikan Anda menggunakan browser terbaru seperti :
+
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
+
+2. Koneksi Internet
+
+Diperlukan akses internet untuk menjalankan "Kuis"
+
+3. Sistem Operasi
+
+"Quiz Project" dapat dijalankan di berbagai sistem operasi, termasuk Windows, macOS, dan Linux. Pastikan sistem operasi Anda mendukung browser web yang kompatibel.
+
+4. JavaScript Aktif
+
+Pastikan JavaScript diaktifkan pada browser Anda. "Quiz Project", karena kuis menggunakan JavaScript untuk menjalan berbagai macam sistem.
+
+5. Kebutuhan Hosting (Jika Diterapkan Secara Online)
+
+Jika Anda berniat untuk menjalankan "Quiz" secara online, pastikan Anda memiliki layanan hosting web atau platform seperti GitHub Pages untuk menampung file HTML, CSS, dan JavaScript proyek ini.
+
+
+> Pastikan untuk memenuhi kebutuhan sistem di atas agar Anda dapat menggunakan "Quiz" dengan maksimal. Jika mengalami masalah/eror, pastikan browser dan sistem anda memenuhi persyaratan di atas sebelum mencari solusi lebih lanjut.
+
+
+*Signature*, `*Kyouka*`-`*2024*`
