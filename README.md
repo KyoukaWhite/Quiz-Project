@@ -21,7 +21,7 @@ Dalam era digital ini, metode pembelajaran dan evaluasi semakin beragam dengan a
 ## Cara Berkontribusi pada Projek ini
 
 1. **Fork Repositori**
-   - Fork repositori [Quiz Project](https://github.com/kazumiasaka/pomo-timer) ke akun GitHub Anda.
+   - Fork repositori [Quiz Project](https://github.com/KyoukaWhite/Quiz-Project) ke akun GitHub Anda.
 
 2. **Clone Repositori**
    - Clone repositori yang telah di-fork ke perangkat lokal Anda.
