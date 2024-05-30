@@ -90,4 +90,5 @@ Jika Anda berniat untuk menjalankan `Quiz` secara online, pastikan Anda memiliki
 > Pastikan untuk memenuhi kebutuhan sistem di atas agar Anda dapat menggunakan `Quiz` dengan maksimal. Jika mengalami masalah/eror, pastikan browser dan sistem anda memenuhi persyaratan di atas sebelum mencari solusi lebih lanjut.
 
 
+
 *Signature*, `Kyouka-2024`
