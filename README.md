@@ -80,7 +80,7 @@ Diperlukan akses internet untuk menjalankan `Quiz`
 
 4. JavaScript Aktif
 
-Pastikan JavaScript diaktifkan pada browser Anda. `Quiz Project`, karena kuis menggunakan JavaScript untuk menjalankan berbagai macam sistem.
+Pastikan JavaScript diaktifkan pada browser Anda. Karena `Quiz Project` menggunakan JavaScript untuk menjalankan berbagai macam sistem.
 
 5. Kebutuhan Hosting (Jika Diterapkan Secara Online)
 
